@@ -5,7 +5,7 @@
     "Private": true,
     "dependencies": {
         "ripple-lib": "^1.10.1",
-        "xrpl-accountlib": "^3.2.8"
+        "xrpl-accountlib": "^3.2.9"
     },
     "devDependencies": {
         "eslint": "*",
